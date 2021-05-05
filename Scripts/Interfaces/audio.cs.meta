@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52ff1a553a9ec1a4c9eb19d2b56fdbf6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - caminar: {fileID: 8300000, guid: 032d005c98510d14dbc02d75ed6dabb3, type: 3}
+  - correr: {fileID: 8300000, guid: d530a283114d9aa4288c4189ea5503f1, type: 3}
+  - saltar: {instanceID: 0}
+  - recoger: {fileID: 8300000, guid: 94ff76696ccbc574dbb20866e9e52d49, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
